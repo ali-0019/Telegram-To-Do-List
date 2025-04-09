@@ -79,15 +79,7 @@ CREATE TABLE tasks (
 3. **Deleting Tasks**: Users can delete tasks by specifying the task ID
 4. **Editing Tasks**: Users can edit task titles by specifying the task ID
 
-## License
-
-[MIT License](LICENSE)
 
 ## Contact
 
-For any questions or suggestions, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
-
-```
-
-This README provides a comprehensive overview of your project, including installation instructions, usage guide, and technical details. You can customize it further by adding screenshots, more detailed usage examples, or any other specific information about your implementation.
-```
+For any questions or suggestions, please open an issue on GitHub or contact [alighadami812@gmail.com].
