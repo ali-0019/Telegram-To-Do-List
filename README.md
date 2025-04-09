@@ -1,6 +1,3 @@
-I'll create a comprehensive README.md file for your Telegram To-Do List bot project:
-
-````markdown:c:\me\tg-bot\to-do-list\README.md
 # Telegram To-Do List Bot
 
 A feature-rich Telegram bot for managing your tasks and to-do lists in Persian language.
